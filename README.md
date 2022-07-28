@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 https://medium.com/@daniel.gavidia1996
-  - [Active Directory Home Lab] https://medium.com/@daniel.gavidia1996/how-to-setup-a-basic-home-lab-running-active-directory-oracle-virtualbox-add-users-with-fac08aa6e0c9
+  - [Active Directory Home Lab] https://github.com/DanielalejandroGG/ActiveDirectoryLab
   - [Nessus Tutorial for Beginners: Vulnerability Management] https://medium.com/@daniel.gavidia1996/nessus-tutorial-for-beginners-vulnerability-management-9fa270e8eedf
   - [SIEM Tutorial for Beginners | Azure Sentinel Tutorial Map] https://medium.com/@daniel.gavidia1996/siem-tutorial-for-beginners-azure-sentinel-tutorial-map-fe7545fb4315
 
